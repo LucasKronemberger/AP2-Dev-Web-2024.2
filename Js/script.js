@@ -1,7 +1,7 @@
 import { hex_sha256 } from "./sha256-min.mjs";
 
-const target = '23afafe6a7279516d53ecedfae71cf68f8c8d6aff9948f20184d588cfa471f76';
-const incremento = 'glorioso';
+const target = 'b0d5d63bf95baa0b4a3528208ea2b883d3178657c0a8bd4469ae753041f2f5de';
+const incremento = 'GLORIOSO';
 const mensagem =  document.getElementById('mensagem')
 
 document.getElementById('loginBtn').onclick = () =>{
